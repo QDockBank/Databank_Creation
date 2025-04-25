@@ -1,0 +1,16 @@
+1yc4	quantum=4.095	af2=4.179	better=quantum
+3d7z	quantum=5.480	af2=3.702	better=af2
+4aoi	quantum=3.930	af2=3.985	better=quantum
+4cig	quantum=3.807	af2=5.344	better=quantum
+4clj	quantum=5.178	af2=4.276	better=af2
+4fp1	quantum=5.042	af2=7.942	better=quantum
+4jpx	quantum=4.354	af2=4.478	better=quantum
+4jpy	quantum=3.850	af2=4.025	better=quantum
+4tmk	quantum=4.349	af2=7.006	better=quantum
+5cqu	quantum=4.831	af2=8.502	better=quantum
+5nkb	quantum=5.435	af2=4.672	better=af2
+6udv	quantum=5.580	af2=5.588	better=quantum
+
+# total=12
+# quantum better: 9 (75.0%)
+# af2 better: 3 (25.0%)

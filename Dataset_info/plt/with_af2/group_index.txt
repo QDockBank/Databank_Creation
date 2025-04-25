@@ -1,0 +1,78 @@
+[Group L]
+  length_13:
+    1yc4
+    4jpx
+    5cqu
+
+  length_14:
+    3d7z
+    4aoi
+    4cig
+    4clj
+    4fp1
+    4jpy
+    4tmk
+    5nkb
+    6udv
+
+[Group M]
+  length_10:
+    1zsf
+    2avo
+    2bok
+    2vwo
+    3b26
+    3d83
+    3vf7
+    4mc1
+    5kqx
+    5kr2
+    6ezq
+
+  length_11:
+    2qbs
+    4f5y
+    5cxa
+    5nkd
+    6g98
+
+  length_12:
+    2bfq
+    2xxx
+    3ag9
+    5nkc
+
+  length_9:
+    1e2l
+    1gx8
+    1m7y
+    4y79
+
+[Group S]
+  length_5:
+    3ckz
+    3eax
+    4mo4
+
+  length_6:
+    1e2k
+    2v25
+    3ibi
+    3s0b
+    6czf
+
+  length_7:
+    1hdq
+    1qin
+    3dx3
+    5c28
+
+  length_8:
+    1ppi
+    3nxq
+    3tcg
+    4q87
+    4xaq
+    4zb8
+    5tya
+    6p86

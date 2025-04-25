@@ -1,0 +1,19 @@
+# L group - affinity compare
+
+1yc4	quantum=-4.368	af2=-3.678	better=quantum
+3d7z	quantum=-5.292	af2=-4.047	better=quantum
+4aoi	quantum=-6.607	af2=-5.343	better=quantum
+4cig	quantum=-5.297	af2=-4.179	better=quantum
+4clj	quantum=-4.256	af2=-4.918	better=af2
+4fp1	quantum=-3.186	af2=-2.161	better=quantum
+4jpx	quantum=-3.549	af2=-3.478	better=quantum
+4jpy	quantum=-4.138	af2=-3.289	better=quantum
+4tmk	quantum=-6.103	af2=-4.282	better=quantum
+5cqu	quantum=-4.767	af2=-4.503	better=quantum
+5nkb	quantum=-6.344	af2=-3.186	better=quantum
+6udv	quantum=-5.108	af2=-4.623	better=quantum
+
+# total=12
+# quantum better: 11 (91.7%)
+# af2 better: 1 (8.3%)
+

@@ -1,0 +1,27 @@
+1e2l	quantum=3.540	af2=4.097	better=quantum
+1gx8	quantum=4.496	af2=4.663	better=quantum
+1m7y	quantum=3.195	af2=4.378	better=quantum
+1zsf	quantum=2.215	af2=5.487	better=quantum
+2avo	quantum=3.367	af2=5.753	better=quantum
+2bfq	quantum=4.460	af2=4.531	better=quantum
+2bok	quantum=3.333	af2=3.968	better=quantum
+2qbs	quantum=2.428	af2=5.406	better=quantum
+2vwo	quantum=3.387	af2=3.906	better=quantum
+2xxx	quantum=3.752	af2=7.107	better=quantum
+3b26	quantum=3.629	af2=4.686	better=quantum
+3d83	quantum=3.755	af2=3.931	better=quantum
+3vf7	quantum=3.794	af2=5.472	better=quantum
+4f5y	quantum=3.204	af2=3.684	better=quantum
+4mc1	quantum=3.900	af2=5.465	better=quantum
+4y79	quantum=2.807	af2=3.947	better=quantum
+5cxa	quantum=5.218	af2=5.736	better=quantum
+5kqx	quantum=3.772	af2=5.771	better=quantum
+5kr2	quantum=4.952	af2=5.760	better=quantum
+5nkc	quantum=4.278	af2=4.376	better=quantum
+5nkd	quantum=4.100	af2=4.216	better=quantum
+6ezq	quantum=3.864	af2=4.805	better=quantum
+6g98	quantum=3.688	af2=4.080	better=quantum
+
+# total=23
+# quantum better: 23 (100.0%)
+# af2 better: 0 (0.0%)

@@ -1,0 +1,62 @@
+# Compare affinity: quantum vs af2 (lower is better)
+
+1e2k	quantum=-3.138	af2=-2.752	better=quantum
+1e2l	quantum=-3.520	af2=-4.536	better=af2
+1gx8	quantum=-4.287	af2=-4.028	better=quantum
+1hdq	quantum=-3.581	af2=-3.249	better=quantum
+1m7y	quantum=-3.561	af2=-2.817	better=quantum
+1ppi	quantum=-4.402	af2=-3.574	better=quantum
+1qin	quantum=-3.810	af2=-3.369	better=quantum
+1yc4	quantum=-4.368	af2=-3.678	better=quantum
+1zsf	quantum=-4.633	af2=0.048	better=quantum
+2avo	quantum=-5.784	af2=-1.491	better=quantum
+2bfq	quantum=-4.698	af2=-3.097	better=quantum
+2bok	quantum=-3.757	af2=-3.607	better=quantum
+2qbs	quantum=-3.834	af2=-3.355	better=quantum
+2v25	quantum=-2.307	af2=-0.870	better=quantum
+2vwo	quantum=-4.763	af2=-4.219	better=quantum
+2xxx	quantum=-3.444	af2=-2.159	better=quantum
+3b26	quantum=-4.915	af2=-4.126	better=quantum
+3ckz	quantum=-3.524	af2=0.000	better=quantum
+3d7z	quantum=-5.292	af2=-4.047	better=quantum
+3d83	quantum=-5.092	af2=-4.421	better=quantum
+3dx3	quantum=-3.141	af2=-1.286	better=quantum
+3eax	quantum=-4.868	af2=-4.593	better=quantum
+3ibi	quantum=-3.013	af2=-3.009	better=quantum
+3nxq	quantum=-4.447	af2=-3.381	better=quantum
+3s0b	quantum=-3.532	af2=-3.489	better=quantum
+3tcg	quantum=-3.508	af2=-2.931	better=quantum
+3vf7	quantum=-4.331	af2=0.000	better=quantum
+4aoi	quantum=-6.607	af2=-5.343	better=quantum
+4cig	quantum=-5.297	af2=-4.179	better=quantum
+4clj	quantum=-4.256	af2=-4.918	better=af2
+4f5y	quantum=-4.701	af2=-4.155	better=quantum
+4fp1	quantum=-3.186	af2=-2.161	better=quantum
+4jpx	quantum=-3.549	af2=-3.478	better=quantum
+4jpy	quantum=-4.138	af2=-3.289	better=quantum
+4mc1	quantum=-4.702	af2=0.000	better=quantum
+4mo4	quantum=-3.459	af2=0.000	better=quantum
+4q87	quantum=-2.884	af2=-2.474	better=quantum
+4tmk	quantum=-6.103	af2=-4.282	better=quantum
+4xaq	quantum=-3.319	af2=-2.332	better=quantum
+4y79	quantum=-4.448	af2=-3.695	better=quantum
+4zb8	quantum=-3.957	af2=-3.191	better=quantum
+5c28	quantum=-2.914	af2=-2.675	better=quantum
+5cqu	quantum=-4.767	af2=-4.503	better=quantum
+5cxa	quantum=-5.142	af2=-4.276	better=quantum
+5kqx	quantum=-4.963	af2=-1.784	better=quantum
+5kr2	quantum=-5.011	af2=-1.631	better=quantum
+5nkb	quantum=-6.344	af2=-3.186	better=quantum
+5nkc	quantum=-5.312	af2=-3.040	better=quantum
+5nkd	quantum=-5.604	af2=-1.822	better=quantum
+5tya	quantum=-3.157	af2=-2.745	better=quantum
+6czf	quantum=-3.832	af2=-1.333	better=quantum
+6ezq	quantum=-3.963	af2=-2.888	better=quantum
+6g98	quantum=-5.163	af2=-3.824	better=quantum
+6p86	quantum=-5.382	af2=-4.313	better=quantum
+6udv	quantum=-5.108	af2=-4.623	better=quantum
+
+# total=55
+# quantum better: 53 (96.4%)
+# af2 better: 2 (3.6%)
+

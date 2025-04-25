@@ -1,0 +1,24 @@
+1e2k	quantum=2.322	af3=2.835	better=quantum
+1hdq	quantum=2.846	af3=2.856	better=quantum
+1ppi	quantum=2.677	af3=4.344	better=quantum
+1qin	quantum=2.745	af3=3.535	better=quantum
+2v25	quantum=1.655	af3=1.793	better=quantum
+3ckz	quantum=0.831	af3=1.780	better=quantum
+3dx3	quantum=2.300	af3=3.230	better=quantum
+3eax	quantum=2.061	af3=2.896	better=quantum
+3ibi	quantum=1.914	af3=1.962	better=quantum
+3nxq	quantum=2.966	af3=4.820	better=quantum
+3s0b	quantum=2.890	af3=3.784	better=quantum
+3tcg	quantum=1.710	af3=4.026	better=quantum
+4mo4	quantum=2.000	af3=2.165	better=quantum
+4q87	quantum=3.644	af3=2.662	better=af3
+4xaq	quantum=3.242	af3=5.104	better=quantum
+4zb8	quantum=3.364	af3=4.489	better=quantum
+5c28	quantum=3.529	af3=3.613	better=quantum
+5tya	quantum=3.666	af3=2.294	better=af3
+6czf	quantum=2.911	af3=3.096	better=quantum
+6p86	quantum=4.103	af3=5.542	better=quantum
+
+# total=20
+# quantum better: 18 (90.0%)
+# af3 better: 2 (10.0%)

@@ -1,0 +1,27 @@
+# S group - affinity compare
+
+1e2k	quantum=-3.138	af2=-2.752	better=quantum
+1hdq	quantum=-3.581	af2=-3.249	better=quantum
+1ppi	quantum=-4.402	af2=-3.574	better=quantum
+1qin	quantum=-3.810	af2=-3.369	better=quantum
+2v25	quantum=-2.307	af2=-0.870	better=quantum
+3ckz	quantum=-3.524	af2=0.000	better=quantum
+3dx3	quantum=-3.141	af2=-1.286	better=quantum
+3eax	quantum=-4.868	af2=-4.593	better=quantum
+3ibi	quantum=-3.013	af2=-3.009	better=quantum
+3nxq	quantum=-4.447	af2=-3.381	better=quantum
+3s0b	quantum=-3.532	af2=-3.489	better=quantum
+3tcg	quantum=-3.508	af2=-2.931	better=quantum
+4mo4	quantum=-3.459	af2=0.000	better=quantum
+4q87	quantum=-2.884	af2=-2.474	better=quantum
+4xaq	quantum=-3.319	af2=-2.332	better=quantum
+4zb8	quantum=-3.957	af2=-3.191	better=quantum
+5c28	quantum=-2.914	af2=-2.675	better=quantum
+5tya	quantum=-3.157	af2=-2.745	better=quantum
+6czf	quantum=-3.832	af2=-1.333	better=quantum
+6p86	quantum=-5.382	af2=-4.313	better=quantum
+
+# total=20
+# quantum better: 20 (100.0%)
+# af2 better: 0 (0.0%)
+

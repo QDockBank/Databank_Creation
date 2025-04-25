@@ -1,0 +1,62 @@
+# Compare RMSD results between quantum and af2
+# Format: pdb_id   quantum=...   af2=...   better=...
+
+1e2k	quantum=2.322	af2=2.420	better=quantum
+1e2l	quantum=3.540	af2=4.097	better=quantum
+1gx8	quantum=4.496	af2=4.663	better=quantum
+1hdq	quantum=2.846	af2=5.667	better=quantum
+1m7y	quantum=3.195	af2=4.378	better=quantum
+1ppi	quantum=2.677	af2=2.762	better=quantum
+1qin	quantum=2.745	af2=2.807	better=quantum
+1yc4	quantum=4.095	af2=4.179	better=quantum
+1zsf	quantum=2.215	af2=5.487	better=quantum
+2avo	quantum=3.367	af2=5.753	better=quantum
+2bfq	quantum=4.460	af2=4.531	better=quantum
+2bok	quantum=3.333	af2=3.968	better=quantum
+2qbs	quantum=2.428	af2=5.406	better=quantum
+2v25	quantum=1.655	af2=1.808	better=quantum
+2vwo	quantum=3.387	af2=3.906	better=quantum
+2xxx	quantum=3.752	af2=7.107	better=quantum
+3b26	quantum=3.629	af2=4.686	better=quantum
+3ckz	quantum=0.831	af2=3.565	better=quantum
+3d7z	quantum=5.480	af2=3.702	better=af2
+3d83	quantum=3.755	af2=3.931	better=quantum
+3dx3	quantum=2.300	af2=3.199	better=quantum
+3eax	quantum=2.061	af2=2.832	better=quantum
+3ibi	quantum=1.914	af2=3.942	better=quantum
+3nxq	quantum=2.966	af2=2.997	better=quantum
+3s0b	quantum=2.890	af2=2.903	better=quantum
+3tcg	quantum=1.710	af2=4.580	better=quantum
+3vf7	quantum=3.794	af2=5.472	better=quantum
+4aoi	quantum=3.930	af2=3.985	better=quantum
+4cig	quantum=3.807	af2=5.344	better=quantum
+4clj	quantum=5.178	af2=4.276	better=af2
+4f5y	quantum=3.204	af2=3.684	better=quantum
+4fp1	quantum=5.042	af2=7.942	better=quantum
+4jpx	quantum=4.354	af2=4.478	better=quantum
+4jpy	quantum=3.850	af2=4.025	better=quantum
+4mc1	quantum=3.900	af2=5.465	better=quantum
+4mo4	quantum=2.000	af2=9.033	better=quantum
+4q87	quantum=3.644	af2=5.466	better=quantum
+4tmk	quantum=4.349	af2=7.006	better=quantum
+4xaq	quantum=3.242	af2=5.130	better=quantum
+4y79	quantum=2.807	af2=3.947	better=quantum
+4zb8	quantum=3.364	af2=3.443	better=quantum
+5c28	quantum=3.529	af2=3.711	better=quantum
+5cqu	quantum=4.831	af2=8.502	better=quantum
+5cxa	quantum=5.218	af2=5.736	better=quantum
+5kqx	quantum=3.772	af2=5.771	better=quantum
+5kr2	quantum=4.952	af2=5.760	better=quantum
+5nkb	quantum=5.435	af2=4.672	better=af2
+5nkc	quantum=4.278	af2=4.376	better=quantum
+5nkd	quantum=4.100	af2=4.216	better=quantum
+5tya	quantum=3.666	af2=5.470	better=quantum
+6czf	quantum=2.911	af2=2.943	better=quantum
+6ezq	quantum=3.864	af2=4.805	better=quantum
+6g98	quantum=3.688	af2=4.080	better=quantum
+6p86	quantum=4.103	af2=2.666	better=af2
+6udv	quantum=5.580	af2=5.588	better=quantum
+
+# Total proteins compared: 55
+# quantum better: 51 (92.7%)
+# af2 better: 4 (7.3%)

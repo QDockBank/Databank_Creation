@@ -1,0 +1,30 @@
+# M group - affinity compare
+
+1e2l	quantum=-3.520	af3=-4.171	better=af3
+1gx8	quantum=-4.287	af3=-4.284	better=quantum
+1m7y	quantum=-3.561	af3=-3.551	better=quantum
+1zsf	quantum=-4.633	af3=-3.997	better=quantum
+2avo	quantum=-5.784	af3=-4.896	better=quantum
+2bfq	quantum=-4.698	af3=-4.579	better=quantum
+2bok	quantum=-3.757	af3=-3.458	better=quantum
+2qbs	quantum=-3.834	af3=-3.759	better=quantum
+2vwo	quantum=-4.763	af3=-4.361	better=quantum
+2xxx	quantum=-3.444	af3=-2.801	better=quantum
+3b26	quantum=-4.915	af3=-4.715	better=quantum
+3d83	quantum=-5.092	af3=-5.053	better=quantum
+3vf7	quantum=-4.331	af3=-4.193	better=quantum
+4f5y	quantum=-4.701	af3=-4.684	better=quantum
+4mc1	quantum=-4.702	af3=-4.796	better=af3
+4y79	quantum=-4.448	af3=-3.971	better=quantum
+5cxa	quantum=-5.142	af3=-4.707	better=quantum
+5kqx	quantum=-4.963	af3=-4.852	better=quantum
+5kr2	quantum=-5.011	af3=-5.509	better=af3
+5nkc	quantum=-5.312	af3=-5.147	better=quantum
+5nkd	quantum=-5.604	af3=-4.937	better=quantum
+6ezq	quantum=-3.963	af3=-3.958	better=quantum
+6g98	quantum=-5.163	af3=-4.731	better=quantum
+
+# total=23
+# quantum better: 20 (87.0%)
+# af3 better: 3 (13.0%)
+

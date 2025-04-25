@@ -1,0 +1,81 @@
+[Group L]  ( 19 )
+  length_13: (6 )
+    1yc4	Chain A	Residues 47-59	length=13	ELISNSSDALDKI
+    4jpx	Chain A	Residues 154-166	length=13	DYLEAYGKGGVKA
+    5cqu	Chain A	Residues 43-55	length=13	RKLGRGKYSEVFE
+
+  length_14: (13 )
+    3d7z	Chain A	Residues 103-116	length=14	YLVTHLMGADLNNI
+    4aoi	Chain A	Residues 1155-1168	length=14	VVLPYMKHGDLRNF
+    4cig	Chain A	Residues 165-178	length=14	VRDQAEHLKTAVQM
+    4clj	Chain A	Residues 1194-1207	length=14	ILMELMAGGDLKSF
+    4fp1	Chain A	Residues 21-34	length=14	PVHTAVGTVGTAPL
+    4jpy	Chain A	Residues 154-167	length=14	DYLEAYGKGGVKAK
+    4tmk	Chain A	Residues 8-21	length=14	IEGLEGAGKTTARN
+    5nkb	Chain A	Residues 689-702	length=14	MIITEYMENGALDK
+    6udv	Chain A	Residues 245-258	length=14	SLSRVMIHVFSDGV
+
+
+[Group M]  ( 23 )
+  length_9: (4 )
+    1e2l	Chain A	Residues 124-132	length=9	AQITMGMPY
+    1gx8	Chain A	Residues 36-44	length=9	SAPLRVYVE
+    1m7y	Chain A	Residues 117-125	length=9	TAGATSANE
+    4y79	Chain A	Residues 189-197	length=9	DACQGDSGG
+
+  length_10: (11 )
+    1zsf	Chain A	Residues 23-32	length=10	LLDTGADDTV
+    2avo	Chain A	Residues 23-32	length=10	LIDTGADDTV
+    2bok	Chain A	Residues 188-197	length=10	EDACQGDSGG
+    2vwo	Chain A	Residues 188-197	length=10	EDACQGDSGG
+    3b26	Chain A	Residues 47-56	length=10	ELISNSSDAL
+    3d83	Chain A	Residues 103-112	length=10	YLVTHLMGAD
+    3vf7	Chain A	Residues 23-32	length=10	LLDTGADDTV
+    4mc1	Chain A	Residues 23-32	length=10	LLDTGADDTV
+    5kqx	Chain A	Residues 23-32	length=10	LLNTGADDTV
+    5kr2	Chain A	Residues 23-32	length=10	LLNTGADDTV
+    6ezq	Chain A	Residues 194-203	length=10	AKQRLKCASL
+
+  length_11: (5 )
+    2qbs	Chain A	Residues 214-224	length=11	HCSAGIGRSGT
+    4f5y	Chain A	Residues 158-168	length=11	GLAWSYYIGYL
+    5cxa	Chain A	Residues 174-184	length=11	FDGKGGILAHA
+    5nkd	Chain A	Residues 689-699	length=11	MIITEYMENGA
+    6g98	Chain A	Residues 60-70	length=11	RNNGHSVQLTL
+
+  length_12: (3 )
+    2bfq	Chain A	Residues 136-147	length=12	AFPAVSAGIYGC
+    2xxx	Chain A	Residues 683-694	length=12	GAVEDGATMTFF
+    5nkc	Chain A	Residues 689-700	length=12	MIITEYMENGAL
+
+
+[Group S]  ( 22 )
+  length_5: (4 )
+    3ckz	Chain A	Residues 149-153	length=5	VKDRS
+    3eax	Chain A	Residues 45-49	length=5	RYRDV
+    4mo4	Chain A	Residues 162-166	length=5	NIGGF
+
+  length_6: (6 )
+    1e2k	Chain A	Residues 55-60	length=6	DGPHGM
+    2v25	Chain A	Residues 81-86	length=6	ATFTIT
+    3ibi	Chain A	Residues 91-96	length=6	IQFHFH
+    3s0b	Chain A	Residues 67-72	length=6	GIKAVM
+    6czf	Chain A	Residues 44-49	length=6	LRKANG
+
+  length_7: (4 )
+    1hdq	Chain A	Residues 194-199	length=6	SIHSYS
+    1qin	Chain A	Residues 32-38	length=7	QQTMLRV
+    3dx3	Chain A	Residues 90-96	length=7	HNDPGWI
+    5c28	Chain A	Residues 663-669	length=7	CDLCSVT
+
+  length_8: (8 )
+    1ppi	Chain A	Residues 57-64	length=8	PWWERYQP
+    3nxq	Chain A	Residues 329-336	length=8	VCHASAWD
+    3tcg	Chain A	Residues 57-64	length=8	IEGVPESN
+    4q87	Chain A	Residues 197-204	length=8	SLTTPPLL
+    4xaq	Chain A	Residues 142-149	length=8	GSYSDVSI
+    4zb8	Chain A	Residues 14-21	length=8	GGPNGWKV
+    5tya	Chain A	Residues 197-204	length=8	SLTTPPLL
+    6p86	Chain A	Residues 300-307	length=8	VYSSGIPL
+
+# All of protein: 55

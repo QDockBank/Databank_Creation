@@ -1,0 +1,62 @@
+# Compare affinity: quantum vs af3 (lower is better)
+
+1e2k	quantum=-3.138	af3=-3.122	better=quantum
+1e2l	quantum=-3.520	af3=-4.171	better=af3
+1gx8	quantum=-4.287	af3=-4.284	better=quantum
+1hdq	quantum=-3.581	af3=-3.380	better=quantum
+1m7y	quantum=-3.561	af3=-3.551	better=quantum
+1ppi	quantum=-4.402	af3=-3.706	better=quantum
+1qin	quantum=-3.810	af3=-3.417	better=quantum
+1yc4	quantum=-4.368	af3=-4.054	better=quantum
+1zsf	quantum=-4.633	af3=-3.997	better=quantum
+2avo	quantum=-5.784	af3=-4.896	better=quantum
+2bfq	quantum=-4.698	af3=-4.579	better=quantum
+2bok	quantum=-3.757	af3=-3.458	better=quantum
+2qbs	quantum=-3.834	af3=-3.759	better=quantum
+2v25	quantum=-2.307	af3=-2.276	better=quantum
+2vwo	quantum=-4.763	af3=-4.361	better=quantum
+2xxx	quantum=-3.444	af3=-2.801	better=quantum
+3b26	quantum=-4.915	af3=-4.715	better=quantum
+3ckz	quantum=-3.524	af3=-3.154	better=quantum
+3d7z	quantum=-5.292	af3=-4.892	better=quantum
+3d83	quantum=-5.092	af3=-5.053	better=quantum
+3dx3	quantum=-3.141	af3=-2.867	better=quantum
+3eax	quantum=-4.868	af3=-3.854	better=quantum
+3ibi	quantum=-3.013	af3=-3.003	better=quantum
+3nxq	quantum=-4.447	af3=-4.247	better=quantum
+3s0b	quantum=-3.532	af3=-3.293	better=quantum
+3tcg	quantum=-3.508	af3=-3.088	better=quantum
+3vf7	quantum=-4.331	af3=-4.193	better=quantum
+4aoi	quantum=-6.607	af3=-5.147	better=quantum
+4cig	quantum=-5.297	af3=-4.920	better=quantum
+4clj	quantum=-4.256	af3=-4.121	better=quantum
+4f5y	quantum=-4.701	af3=-4.684	better=quantum
+4fp1	quantum=-3.186	af3=-3.168	better=quantum
+4jpx	quantum=-3.549	af3=-3.546	better=quantum
+4jpy	quantum=-4.138	af3=-4.112	better=quantum
+4mc1	quantum=-4.702	af3=-4.796	better=af3
+4mo4	quantum=-3.459	af3=-3.425	better=quantum
+4q87	quantum=-2.884	af3=-3.124	better=af3
+4tmk	quantum=-6.103	af3=-5.354	better=quantum
+4xaq	quantum=-3.319	af3=-3.292	better=quantum
+4y79	quantum=-4.448	af3=-3.971	better=quantum
+4zb8	quantum=-3.957	af3=-3.564	better=quantum
+5c28	quantum=-2.914	af3=-2.723	better=quantum
+5cqu	quantum=-4.767	af3=-4.003	better=quantum
+5cxa	quantum=-5.142	af3=-4.707	better=quantum
+5kqx	quantum=-4.963	af3=-4.852	better=quantum
+5kr2	quantum=-5.011	af3=-5.509	better=af3
+5nkb	quantum=-6.344	af3=-4.866	better=quantum
+5nkc	quantum=-5.312	af3=-5.147	better=quantum
+5nkd	quantum=-5.604	af3=-4.937	better=quantum
+5tya	quantum=-3.157	af3=-3.628	better=af3
+6czf	quantum=-3.832	af3=-3.684	better=quantum
+6ezq	quantum=-3.963	af3=-3.958	better=quantum
+6g98	quantum=-5.163	af3=-4.731	better=quantum
+6p86	quantum=-5.382	af3=-4.742	better=quantum
+6udv	quantum=-5.108	af3=-4.887	better=quantum
+
+# total=55
+# quantum better: 50 (90.9%)
+# af2 better: 5 (9.1%)
+

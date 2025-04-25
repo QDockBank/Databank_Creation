@@ -1,0 +1,16 @@
+1yc4	quantum=4.095	af3=3.072	better=af3
+3d7z	quantum=5.480	af3=4.964	better=af3
+4aoi	quantum=3.930	af3=5.185	better=quantum
+4cig	quantum=3.807	af3=5.693	better=quantum
+4clj	quantum=5.178	af3=7.709	better=quantum
+4fp1	quantum=5.042	af3=5.846	better=quantum
+4jpx	quantum=4.354	af3=3.256	better=af3
+4jpy	quantum=3.850	af3=3.858	better=quantum
+4tmk	quantum=4.349	af3=4.911	better=quantum
+5cqu	quantum=4.831	af3=4.891	better=quantum
+5nkb	quantum=5.435	af3=4.958	better=af3
+6udv	quantum=5.580	af3=4.636	better=af3
+
+# total=12
+# quantum better: 7 (58.3%)
+# af3 better: 5 (41.7%)
